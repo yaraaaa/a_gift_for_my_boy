@@ -34,7 +34,7 @@
 }
 
 .centered {
-  position: absolute;
+  position: relative;
   width: 70%;
   height: auto;
   top: 50%;
