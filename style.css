@@ -32,3 +32,12 @@
   border: 1px solid #ccc;
   border-top: none;
 }
+
+.centered {
+  position: absolute;
+  width: 70%;
+  height: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
